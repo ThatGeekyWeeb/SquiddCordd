@@ -448,3 +448,6 @@ body {
 	margin-left: 10px;
 	margin-right: 50px;
 }
+.* {
+  background: rgba(10, 10, 10, 0.5) !important;
+}
